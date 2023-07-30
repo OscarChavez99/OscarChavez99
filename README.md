@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
 - Check out my portfolio website here! https://oscarchavez99.github.io/
+- 📫 How to reach me: oscar.chavez.gomez.99@gmail.com
 
 <!--
 - 🔭 I’m currently working on ...
