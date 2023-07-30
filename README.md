@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- Check out my portfolio website here!: https://oscarchavez99.github.io/
+- Check out my portfolio website here! https://oscarchavez99.github.io/
 
 <!--
 - 🔭 I’m currently working on ...
